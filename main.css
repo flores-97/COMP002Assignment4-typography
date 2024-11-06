@@ -24,7 +24,7 @@ a:focus, a:hover {
 }
 
 body {
-	
+	background-color: lightseagreen;
 }
 
 code {
@@ -49,6 +49,12 @@ h1, h2, h3 {
 h1 {
 	margin-bottom: 1em;
 	border: 1em;
+	color: rgb(0, 0, 0);
+	border: 1em;
+	border-style: groove;
+	border-radius: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 
 h2 {
@@ -81,7 +87,7 @@ p {
 	text-indent: 1em;
 	border: 1em;
 	border-style: solid;
-	border-color: lightblue;
+	border-color: whitesmoke;
 	float: left;
 	width: 25%;
 	margin-left: 5em;
@@ -94,7 +100,7 @@ p {
 	margin-bottom: .5em;
 	border: 1em;
 	border-style: solid;
-	border-color: lightblue;
+	border-color: whitesmoke;
 	float: right;
 	width: 45%;
 	margin-left: 5em;
