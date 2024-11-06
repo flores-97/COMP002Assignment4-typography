@@ -70,7 +70,7 @@ header {
 }
 
 main {
-	
+
 }
 
 p {
@@ -92,6 +92,7 @@ p {
 	width: 25%;
 	margin-left: 5em;
 	padding: 1em;
+	position: fixed;
 }
 
 #how-does-it-work, #influence, #joke {
